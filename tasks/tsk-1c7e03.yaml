@@ -1,6 +1,6 @@
 id: tsk-1c7e03
 title: Show real git status in the top bar
 state: done
-description: |
-  PLNR_Utils.get_git_status() feeds the status label: clean, ahead,
-  behind, diverged, dirty, local only or no repo.
+description: 'PLNR_Utils.get_git_status() feeds the status label: clean, ahead,
+
+  behind, diverged, dirty, local only or no repo.'
