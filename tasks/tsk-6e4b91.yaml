@@ -1,0 +1,6 @@
+id: tsk-6e4b91
+title: Sync the board with the remote repository
+state: todo
+description: |
+  Commit every mutation, pull and push through the git adapter, and queue
+  commits locally when the remote is unreachable.

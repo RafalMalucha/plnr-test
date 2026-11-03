@@ -1,0 +1,6 @@
+id: tsk-9b1d77
+title: Wire the add-task button to task creation
+state: todo
+description: |
+  Make the + Task button open a prompt, create a PLNR_Task with
+  PLNR_TaskHandler.new_task() and save it under tasks/.

@@ -1,0 +1,6 @@
+id: tsk-8d2a5f
+title: Parse task YAML files on startup
+state: done
+description: |
+  One file per task under content/tasks/, validated into PLNR_Task
+  objects and grouped by PLNR_TaskState.

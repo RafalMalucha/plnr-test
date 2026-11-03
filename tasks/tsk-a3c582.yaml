@@ -1,0 +1,6 @@
+id: tsk-a3c582
+title: Add keyboard navigation between cards
+state: doing
+description: |
+  h/l moves between columns, j/k between cards, enter opens the selected
+  task. Selection lives on the screen, not in the card widgets.
