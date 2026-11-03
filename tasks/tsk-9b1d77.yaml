@@ -1,6 +1,11 @@
 id: tsk-9b1d77
 title: Wire the add-task button to task creation
 state: todo
-description: |
-  Make the + Task button open a prompt, create a PLNR_Task with
+description: 'Make the + Task button open a prompt, create a PLNR_Task with
+
   PLNR_TaskHandler.new_task() and save it under tasks/.
+
+  '
+author: Rafal
+created: '2026-11-03T19:18:26+01:00'
+modified: '2026-11-03T19:37:11+01:00'

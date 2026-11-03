@@ -1,7 +1,13 @@
 id: tsk-4f8a2c
 title: Render task cards in the board columns
 state: doing
-description: |
-  Replace the static TO DO / DOING / DONE boxes with cards built from
+description: 'Replace the static TO DO / DOING / DONE boxes with cards built from
+
   PLNR_Project.by_state(). One column per PLNR_TaskState, cards in the
+
   order the parser returns them.
+
+  '
+author: Rafal
+created: '2026-11-03T19:18:26+01:00'
+modified: '2026-11-03T19:37:11+01:00'

@@ -4,3 +4,6 @@ state: done
 description: 'PLNR_Utils.get_git_status() feeds the status label: clean, ahead,
 
   behind, diverged, dirty, local only or no repo.'
+author: Rafal
+created: '2026-11-03T19:46:25+01:00'
+modified: '2026-11-03T19:46:25+01:00'

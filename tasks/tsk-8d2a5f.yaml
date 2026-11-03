@@ -1,6 +1,11 @@
 id: tsk-8d2a5f
 title: Parse task YAML files on startup
 state: done
-description: |
-  One file per task under content/tasks/, validated into PLNR_Task
+description: 'One file per task under content/tasks/, validated into PLNR_Task
+
   objects and grouped by PLNR_TaskState.
+
+  '
+author: Rafal
+created: '2026-11-03T19:18:26+01:00'
+modified: '2026-11-03T19:37:11+01:00'
