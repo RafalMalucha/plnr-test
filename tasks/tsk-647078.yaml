@@ -1,6 +1,6 @@
 id: tsk-647078
 title: New task test 1 - revision 2
-state: todo
+state: doing
 description: 'asdf
 
   test
@@ -8,4 +8,4 @@ description: 'asdf
   test'
 author: Rafal
 created: '2026-11-03T19:37:11+01:00'
-modified: '2026-11-03T19:56:04+01:00'
+modified: '2026-11-04T12:04:19+01:00'
